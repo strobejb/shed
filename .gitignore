@@ -1,0 +1,49 @@
+# Visual Studio user/state files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]in/
+[Oo]bj/
+ipch/
+
+# MSBuild / compiler outputs
+*.aps
+*.idb
+*.iobj
+*.ipdb
+*.ilk
+*.lastbuildstate
+*.log
+*.obj
+*.pch
+*.pdb
+*.res
+*.tlog
+*.tlb
+*.tmp
+*.exp
+*.lib
+*.exe
+*.dll
+*.manifest
+
+# Generated help/cache files
+*.GID
+*.gid
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
